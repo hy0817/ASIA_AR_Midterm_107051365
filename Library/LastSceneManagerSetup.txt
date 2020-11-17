@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Scenes/AR_Midterm_107051365.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
